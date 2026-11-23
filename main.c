@@ -18,6 +18,9 @@ else
     {
      printf("NG");   
     };
-    printf("%ld", g);
+if (n>=0)
+    {
+  printf("%ld", g);
+    }
     return 0;
 };
